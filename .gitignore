@@ -8,6 +8,5 @@
 chemprop.egg-info
 docs/build
 __pycache__
-oligothiophenes
 *pycache*
 data
