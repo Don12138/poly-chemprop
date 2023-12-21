@@ -1,0 +1,13 @@
+*.pyc
+*.idea
+*.DS_Store
+*.vscode
+*.csv
+*.sqlite3
+.github
+chemprop.egg-info
+docs/build
+__pycache__
+oligothiophenes
+*pycache*
+data
